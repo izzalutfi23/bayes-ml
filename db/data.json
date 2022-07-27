@@ -1,0 +1,364 @@
+[
+	{
+		"umur" : 21,
+		"Pemilihan_Item" : "Mahir",
+		"Micro_Macro" : "Pro",
+		"Role" : "Mage/Explane",
+		"kesehatan" : "sehat",
+		"status" : 1
+	},
+	{
+		"umur" : 22,
+		"Pemilihan_Item" : "Pro",
+		"Micro_Macro" : "Mahir",
+		"Role" : "Mage/Explane",
+		"kesehatan" : "sehat",
+		"status" : 1
+	},
+	{
+		"umur" : 25,
+		"Pemilihan_Item" : "Mahir",
+		"Micro_Macro" : "Mahir",
+		"Role" : "Tank/Assasin",
+		"kesehatan" : "sehat",
+		"status" : 1
+	},
+	{
+		"umur" : 22,
+		"Pemilihan_Item" : "Mahir",
+		"Micro_Macro" : "Belum Mahir",
+		"Role" : "Tank/Assasin",
+		"kesehatan" : "sehat",
+		"status" : 1
+	},
+	{
+		"umur" : 21,
+		"Pemilihan_Item" : "Mahir",
+		"Micro_Macro" : "Belum Mahir",
+		"Role" : "Mage/Explane",
+		"kesehatan" : "sehat",
+		"status" : 1
+	},
+	{
+		"umur" : 25,
+		"Pemilihan_Item" : "Belum Mahir",
+		"Micro_Macro" : "Mahir",
+		"Role" : "Tank/Assasin",
+		"kesehatan" : "tidak_sehat",
+		"status" : 0
+	},
+	{
+		"umur" : 21,
+		"Pemilihan_Item" : "Pro",
+		"Micro_Macro" : "Pro",
+		"Role" : "Tank/Assasin",
+		"kesehatan" : "tidak_sehat",
+		"status" : 0
+	},
+	{
+		"umur" : 21,
+		"Pemilihan_Item" : "Pro",
+		"Micro_Macro" : "Pro",
+		"Role" : "Tank/Assasin",
+		"kesehatan" : "sehat",
+		"status" : 0
+	},
+	{
+		"umur" : 21,
+		"Pemilihan_Item" : "Belum Mahir",
+		"Micro_Macro" : "Pro",
+		"Role" : "Mage/Explane",
+		"kesehatan" : "sehat",
+		"status" : 1
+	},
+	{
+		"umur" : 21,
+		"Pemilihan_Item" : "Belum Mahir",
+		"Micro_Macro" : "Pro",
+		"Role" : "Marksman/Goldlane",
+		"kesehatan" : "sehat",
+		"status" : 0
+	},
+	{
+		"umur" : 20,
+		"Pemilihan_Item" : "Belum Mahir",
+		"Micro_Macro" : "Pro",
+		"Role" : "Tank/Assasin",
+		"kesehatan" : "tidak_sehat",
+		"status" : 0
+	},
+	{
+		"umur" : 20,
+		"Pemilihan_Item" : "Belum Mahir",
+		"Micro_Macro" : "Pro",
+		"Role" : "Marksman/Goldlane",
+		"kesehatan" : "sehat",
+		"status" : 0
+	},
+	{
+		"umur" : 20,
+		"Pemilihan_Item" : "Belum Mahir",
+		"Micro_Macro" : "Mahir",
+		"Role" : "Tank/Assasin",
+		"kesehatan" : "sehat",
+		"status" : 1
+	},
+	{
+		"umur" : 20,
+		"Pemilihan_Item" : "Mahir",
+		"Micro_Macro" : "Pro",
+		"Role" : "Marksman/Goldlane",
+		"kesehatan" : "sehat",
+		"status" : 0
+	},
+	{
+		"umur" : 20,
+		"Pemilihan_Item" : "Belum Mahir",
+		"Micro_Macro" : "Pro",
+		"Role" : "Marksman/Goldlane",
+		"kesehatan" : "sehat",
+		"status" : 0
+	},
+	{
+		"umur" : 23,
+		"Pemilihan_Item" : "Mahir",
+		"Micro_Macro" : "Pro",
+		"Role" : "Marksman/Goldlane",
+		"kesehatan" : "sehat",
+		"status" : 0
+	},
+	{
+		"umur" : 21,
+		"Pemilihan_Item" : "Mahir",
+		"Micro_Macro" : "Mahir",
+		"Role" : "Marksman/Goldlane",
+		"kesehatan" : "sehat",
+		"status" : 0
+	},
+	{
+		"umur" : 20,
+		"Pemilihan_Item" : "Belum Mahir",
+		"Micro_Macro" : "Belum Mahir",
+		"Role" : "Marksman/Goldlane",
+		"kesehatan" : "sehat",
+		"status" : 0
+	},
+	{
+		"umur" : 24,
+		"Pemilihan_Item" : "Mahir",
+		"Micro_Macro" : "Pro",
+		"Role" : "Tank/Assasin",
+		"kesehatan" : "sehat",
+		"status" : 1
+	},
+	{
+		"umur" : 22,
+		"Pemilihan_Item" : "Mahir",
+		"Micro_Macro" : "Pro",
+		"Role" : "Tank/Assasin",
+		"kesehatan" : "tidak_sehat",
+		"status" : 0
+	},
+	{
+		"umur" : 21,
+		"Pemilihan_Item" : "Pro",
+		"Micro_Macro" : "Mahir",
+		"Role" : "Mage/Explane",
+		"kesehatan" : "tidak_sehat",
+		"status" : 0
+	},
+	{
+		"umur" : 23,
+		"Pemilihan_Item" : "Mahir",
+		"Micro_Macro" : "Pro",
+		"Role" : "Mage/Explane",
+		"kesehatan" : "sehat",
+		"status" : 1
+	},
+	{
+		"umur" : 20,
+		"Pemilihan_Item" : "Belum Mahir",
+		"Micro_Macro" : "Mahir",
+		"Role" : "Marksman/Goldlane",
+		"kesehatan" : "sehat",
+		"status" : 0
+	},
+	{
+		"umur" : 22,
+		"Pemilihan_Item" : "Mahir",
+		"Micro_Macro" : "Pro",
+		"Role" : "Tank/Assasin",
+		"kesehatan" : "sehat",
+		"status" : 1
+	},
+	{
+		"umur" : 22,
+		"Pemilihan_Item" : "Belum Mahir",
+		"Micro_Macro" : "Pro",
+		"Role" : "Tank/Assasin",
+		"kesehatan" : "sehat",
+		"status" : 1
+	},
+
+
+	{
+		"umur" : 23,
+		"Pemilihan_Item" : "Belum Mahir",
+		"Micro_Macro" : "Pro",
+		"Role" : "Mage/Explane",
+		"kesehatan" : "sehat",
+		"status" : 1
+	},
+	{
+		"umur" : 21,
+		"Pemilihan_Item" : "Mahir",
+		"Micro_Macro" : "Pro",
+		"Role" : "Tank/Assasin",
+		"kesehatan" : "sehat",
+		"status" : 1
+	},
+	{
+		"umur" : 22,
+		"Pemilihan_Item" : "Mahir",
+		"Micro_Macro" : "Mahir",
+		"Role" : "Tank/Assasin",
+		"kesehatan" : "sehat",
+		"status" : 1
+	},
+	{
+		"umur" : 22,
+		"Pemilihan_Item" : "Mahir",
+		"Micro_Macro" : "Mahir",
+		"Role" : "Tank/Assasin",
+		"kesehatan" : "sehat",
+		"status" : 1
+	},
+	{
+		"umur" : 23,
+		"Pemilihan_Item" : "Belum Mahir",
+		"Micro_Macro" : "Mahir",
+		"Role" : "Marksman/Goldlane",
+		"kesehatan" : "tidak_sehat",
+		"status": 0
+	},
+	{
+		"umur" : 20,
+		"Pemilihan_Item" : "Mahir",
+		"Micro_Macro" : "Mahir",
+		"Role" : "Marksman/Goldlane",
+		"kesehatan" : "sehat",
+		"status": 1
+	},
+	{
+		"umur" : 21,
+		"Pemilihan_Item" : "Mahir",
+		"Micro_Macro" : "Pro",
+		"Role" : "Mage/Explane",
+		"kesehatan" : "sehat",
+		"status": 1
+	},
+	{
+		"umur" : 22,
+		"Pemilihan_Item" : "Mahir",
+		"Micro_Macro" : "Pro",
+		"Role" : "Mage/Explane",
+		"kesehatan" : "sehat",
+		"status": 1
+	},
+	{
+		"umur" : 23,
+		"Pemilihan_Item" : "Belum Mahir",
+		"Micro_Macro" : "Belum Mahir",
+		"Role" : "Tank/Assasin",
+		"kesehatan" : "sehat",
+		"status": 1
+	},
+	{
+		"umur" : 24,
+		"Pemilihan_Item" : "Belum Mahir",
+		"Micro_Macro" : "Mahir",
+		"Role" : "Tank/Assasin",
+		"kesehatan" : "tidak_sehat",
+		"status": 0
+	},
+	{
+		"umur" : 20,
+		"Pemilihan_Item" : "Pro",
+		"Micro_Macro" : "Belum Mahir",
+		"Role" : "Tank/Assasin",
+		"kesehatan" : "sehat",
+		"status": 0
+	},
+	{
+		"umur" : 20,
+		"Pemilihan_Item" : "Mahir",
+		"Micro_Macro" : "Pro",
+		"Role" : "Marksman/Goldlane",
+		"kesehatan" : "sehat",
+		"status": 0
+	},
+	{
+		"umur" : 21,
+		"Pemilihan_Item" : "Belum Mahir",
+		"Micro_Macro" : "Pro",
+		"Role" : "Tank/Assasin",
+		"kesehatan" : "sehat",
+		"status": 1
+	},
+	{
+		"umur" : 21,
+		"Pemilihan_Item" : "Mahir",
+		"Micro_Macro" : "Pro",
+		"Role" : "Mage/Explane",
+		"kesehatan" : "sehat",
+		"status": 1
+	},
+	{
+		"umur" : 21,
+		"Pemilihan_Item" : "Mahir",
+		"Micro_Macro" : "Belum Mahir",
+		"Role" : "Mage/Explane",
+		"kesehatan" : "sehat",
+		"status": 1
+	},
+	{
+		"umur" : 22,
+		"Pemilihan_Item" : "Belum Mahir",
+		"Micro_Macro" : "Pro",
+		"Role" : "Tank/Assasin",
+		"kesehatan" : "sehat",
+		"status": 1
+	},
+	{
+		"umur" : 22,
+		"Pemilihan_Item" : "Belum Mahir",
+		"Micro_Macro" : "Belum Mahir",
+		"Role" : "Mage/Explane",
+		"kesehatan" : "tidak_sehat",
+		"status": 0
+	},
+	{
+		"umur" : 20,
+		"Pemilihan_Item" : "Mahir",
+		"Micro_Macro" : "Pro",
+		"Role" : "Marksman/Goldlane",
+		"kesehatan" : "tidak_sehat",
+		"status": 0
+	},
+	{
+		"umur" : 21,
+		"Pemilihan_Item" : "Mahir",
+		"Micro_Macro" : "Pro",
+		"Role" : "Tank/Assasin",
+		"kesehatan" : "sehat",
+		"status": 1
+	},
+	{
+		"umur" : 20,
+		"Pemilihan_Item" : "Mahir",
+		"Micro_Macro" : "Pro",
+		"Role" : "Tank/Assasin",
+		"kesehatan" : "tidak_sehat",
+		"status": 1
+	}
+]

@@ -1,0 +1,2 @@
+1. Khusus program ini, tidak menggunakan database .sql
+2. Data disimpan dalam file .json sebagai penyimpanan aturan untuk di proses oleh sistem
