@@ -178,12 +178,12 @@ class Bayes
   function perbandingan($pATrue,$pAFalse)
   {
     if($pATrue > $pAFalse){
-      $stt = "DITERIMA";
+      $stt = "MENANG";
       $hitung = ($pATrue / ($pATrue + $pAFalse)) * 100;
       $diterima = 100 - $hitung;
     }elseif($pAFalse > $pATrue)
     {
-      $stt = "DITOLAK";
+      $stt = "KALAH";
       $hitung = ($pAFalse / ($pAFalse + $pATrue)) * 100;
       $diterima = 100 - $hitung;
     }

@@ -134,20 +134,20 @@ $result = $obj->perbandingan($paT,$paF);
 
 if($paT > $paF){
   echo "<br>
-  <h3 class='tebal'>PREDIKSI <span class='badge badge-success' style='padding:10px'><b>DITERIMA</b></span> LEBIH BESAR DARI PADA PREDIKSI DITOLAK</h3><br>";
-  echo "<h4><br>PREDIKSI diterima sebesar : <b>".round($result[1],2)." %</b> <br>PREDIKSI ditolak sebesar : <b>".round($result[2],2)." % </b></h4>";
+  <h3 class='tebal'>PREDIKSI <span class='badge badge-success' style='padding:10px'><b>MENANG</b></span> LEBIH BESAR DARI PADA PREDIKSI KALAH</h3><br>";
+  echo "<h4><br>PREDIKSI menang sebesar : <b>".round($result[1],2)." %</b> <br>PREDIKSI kalah sebesar : <b>".round($result[2],2)." % </b></h4>";
 }else if($paF > $paT){
   echo "<br>
-  <h3 class='tebal'>PREDIKSI <span class='badge badge-danger' style='padding:10px'><b>DITOLAK</b></span> LEBIH BESAR DARI PADA PREDIKSI DITERIMA</h3><br>";
-  echo "<h4><br>PREDIKSI ditolak sebesar : <b>".round($result[1],2)." %</b> <br>PREDIKSI diterima sebesar : <b>".round($result[2],2)." % </b></h4>";
+  <h3 class='tebal'>PREDIKSI <span class='badge badge-danger' style='padding:10px'><b>KALAH</b></span> LEBIH BESAR DARI PADA PREDIKSI MENANG</h3><br>";
+  echo "<h4><br>PREDIKSI kalah sebesar : <b>".round($result[1],2)." %</b> <br>PREDIKSI menang sebesar : <b>".round($result[2],2)." % </b></h4>";
 }
 
 
-if($result[0] == "DITERIMA"){
+if($result[0] == "MENANG"){
   echo "
   <div class='alert alert-success mt-5' role='aler'>
     <h4 class='alert-heading'>Kesimpulan : $result[0] </h4>
-    <p>Selamat! berdasarkan hasil peritungan Naive Bayes, anda diprediksi akan <b>diterima!</b></p>
+    <p>Selamat! berdasarkan hasil peritungan Naive Bayes, anda diprediksi akan <b>menang!</b></p>
     <hr>
     <p class='mb-0'>- Have a nice day -</p>
   </div>";
@@ -155,7 +155,7 @@ if($result[0] == "DITERIMA"){
   echo"
   <div class='alert alert-danger mt-5' role='aler'>
   <h4 class='alert-heading'>Kesimpulan : $result[0] </h4>
-  <p>Maaf, berdasarkan hasil peritungan Naive Bayes, anda diprediksi akan <b>ditolak!</p>
+  <p>Maaf, berdasarkan hasil peritungan Naive Bayes, anda diprediksi akan <b>kalah!</p>
   <hr>
   <p class='mb-0'>- Don't give up ! -</p>
   </div>";
